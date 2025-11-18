@@ -120,6 +120,6 @@ After segmentation, the segmented output is processed using the **MATLAB main pr
 
 ---
 
-## 3. 结果 (Results)
+## 3. Results
 
 The resulting **pseudo-color encoded maps** for the five calculated features are saved in the corresponding folder within: `ACA mapping\Results\`
