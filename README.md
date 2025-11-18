@@ -85,7 +85,7 @@ optional arguments:
 
 The **U-Net architecture** is based on the original paper by Olaf Ronneberger, Philipp Fischer, Thomas Brox:
 
-> U-Net: Convolutional Networks for Biomedical Image Segmentation 
+> *U-Net: Convolutional Networks for Biomedical Image Segmentation* 
 
 
 ---
